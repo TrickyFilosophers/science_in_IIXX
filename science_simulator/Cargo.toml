@@ -1,0 +1,8 @@
+[package]
+name = "science_simulator"
+version = "0.1.0"
+authors = ["Mike Lubinets <lubinetsm@yandex.ru>"]
+
+[dependencies]
+git2 = "0.5"
+rustc-serialize = "0.3"
